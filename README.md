@@ -1,2 +1,2 @@
 # XConsole
-type help to get started
+Type help to get started
